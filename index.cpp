@@ -11,6 +11,6 @@ int main() {
 
     cout << "Tong: " << a + b << endl;
     cout << "Hieu: " << a - b << endl;
-   
+    cout << "Tich: " << a * b << endl;
     return 0;
 }
